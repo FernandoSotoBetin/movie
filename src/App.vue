@@ -6,16 +6,16 @@
           .columns.sombra
             .column.center-item
               figure.imageis-128x128
-                img(src="https://FernandoSotoBetin.github.com/movie/dist/moviees.jpg")
+                img(src="https://FernandoSotoBetin.github.oi/movie/dist/moviees.jpg")
             .column.center-item
               input.input(type='text', placeholder='Buscar tu peli, actor, actriz o director favorito')
             .column
               .navbar-end
                 span.navbar-item Fernando Soto
                 figure.navbar-item.image.is-48x48
-                  img(src="https://FernandoSotoBetin.github.com/movie/dist/loro.png")
+                  img(src="https://FernandoSotoBetin.github.oi/movie/dist/loro.png")
                 span.navbar-item 
-                  img(src="https://FernandoSotoBetin.github.com/movie/dist/ic_arrow_drop_down_black_24px.svg")
+                  img(src="https://FernandoSotoBetin.github.oi/movie/dist/ic_arrow_drop_down_black_24px.svg")
     .div
       article.media
         aside.media-left
@@ -24,17 +24,17 @@
               .navbar-item.block.cen
                 a
                   figure.image
-                    img(src="./assets/ic_home_white_24px.svg")
+                    img(src="https://FernandoSotoBetin.github.io/movie/dist/ic_home_white_24px.svg")
                   | Home
               .navbar-item.block.cen  
                 a 
                   figure.image
-                    img(src="https://FernandoSotoBetin.github.com/movie/dist/ic_card_giftcard_white_24px.svg")
+                    img(src="https://FernandoSotoBetin.github.io/movie/dist/ic_card_giftcard_white_24px.svg")
                   | Trending
               .navbar-item.block.cen  
                 a 
                   figure.image
-                    img(src="https://FernandoSotoBetin.github.com/movie/dist/ic_favorite_white_24px.svg")
+                    img(src="https://FernandoSotoBetin.github.io/movie/dist/ic_favorite_white_24px.svg")
                   | Más likes
             .navbar-end
               .navbar-item.block.cen
